@@ -1,45 +1,37 @@
-name: GitHub Pages
+name: GH Pages deploy
 
 on:
   push:
-    branches:
-      - main
+    branches: main
+    paths-ignore:
+      - "**.md"
+
   pull_request:
+    branches: main
+    paths-ignore:
+      - "**.md"
 
 jobs:
-  deploy:
+  build-deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      - name: Checkout 🛎️
+        uses: actions/checkout@master
         with:
-          node-version: '18'
+          persist-credentials: false
 
-      - name: Get yarn cache
-        id: yarn-cache
-        run: echo "YARN_CACHE_DIR=$(yarn cache dir)" >> "${GITHUB_OUTPUT}"
+      - name: Install 🔧
+        run: yarn install
 
-      - name: Cache dependencies
-        uses: actions/cache@v3
-        with:
-          path: ${{ steps.yarn-cache.outputs.YARN_CACHE_DIR }}
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-yarn-
+      - name: Build 🏗️
+        run: yarn build
+        env:
+          NODE_ENV: production
 
-      - run: yarn install --frozen-lockfile
-      - run: yarn build
-      - run: yarn export
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
+      - name: Deploy to GH Pages 🚀
+        if: ${{ github.event_name != 'pull_request' }}
+        uses: robot
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./out
+          publish_dir: dist
