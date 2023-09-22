@@ -4,30 +4,27 @@ tags:
 expertise:
   - name: Data Science Jr
     cards:
-      - data-science-fundamentals:
-        priority: 10
-      - feature-engineering:
-        priority: 10
-      - data-extraction-and-processing:
-        priority: 10
       - python-for-data-science:
         priority: 10
-      - jupyter-and-colaboratory:
-        priority: 9
-      - r-for-data-science:
-        priority: 9
-        optional: true
+      - data-science-fundamentals:
+        priority: 10
+      - optimization-fundamentals:
+        priority: 10
       - statistics-and-math-fundamentals:
         priority: 10
-      - linear-and-logistic-regression:
+      - data-extraction-and-processing:
         priority: 9
+      - supervised-machine-learning:
+        priority: 9
+      - databricks-fundamentals:
+        priority: 8
       - data-visualization:
         priority: 8
   - name: Data Science Mid
     cards:
-      - machine-learning-fundamentals:
+      - advanced-learning-algorithms:
         priority: 10
-      - machine-learning-unsupervised-learning:
+      - time-series:
         priority: 10
       - machine-learning-model-evaluation:
         priority: 9
@@ -36,6 +33,8 @@ expertise:
       - web-scraping:
         priority: 7
       - statistical-tests:
+        priority: 7
+      - simulation:
         priority: 7
   - name: Data Science in depth
     cards:
@@ -55,6 +54,8 @@ collaboration:
       - cloud-fundamentals:
         priority: 7
       - git-and-github-fundamentals:
+        priority: 7
+      - software-developer:
         priority: 7
       - linux-fundamentals:
         priority: 7

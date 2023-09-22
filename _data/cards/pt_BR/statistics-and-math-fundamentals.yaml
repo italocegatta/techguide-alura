@@ -2,18 +2,10 @@ name: Estatística e Matemática - Fundamentos
 logo: 
 short-description:
 key-objectives:
-  - Equações, funções e limites
-  - Logaritmos
-  - Matrizes, determinantes, vetores e espaço vetorial
-  - Derivadas e integrais
-  - Diferença entre média, mediana e moda
-  - Distribuição de frequência
-  - Variância e desvio padrão
-  - Distribuição binomial, poisson e normal
-  - Nível e intervalo de confiança
-  - Técnicas de amostragem
-  - Regressão linear
-  - Séries temporais
+  - A matemática está no cerne da construção de modelos que prevêem tendências e comportamentos futuros.
+  - A estatística fornece as ferramentas necessárias para interpretar, resumir e inferir a partir de conjuntos de dados. Auxilia na tomada de decisões informadas ao avaliar a significância e confiabilidade dos dados. Ajuda a entender e quantificar a variabilidade, que é intrínseca aos dados.
+  - Matemática e a estatística são cruciais para testar e validar modelos, garantindo que eles sejam robustos e confiáveis.
+  - Uso de modelagem de relações entre variáveis para previsão e inferência, algoritmos para categorizar dados em grupos específicos e estatística para identificar e aprender padrões em dados complexos.
 aditional-objectives:
 contents:
   - type: ARTICLE
@@ -34,19 +26,4 @@ contents:
   - type: YOUTUBE
     title: "FC Nuvem: Introdução a Estatística para Ciência de Dados"
     link: https://www.youtube.com/watch?v=NdRKIIFa63c
-alura-contents:
-  - type: ARTICLE
-    title: "Média ou mediana? Entendendo cada uma"
-    link: https://www.alura.com.br/artigos/media-ou-mediana-entendendo-cada-uma
-  - type: ARTICLE
-    title: "Modelos matemáticos utilizados em séries temporais"
-    link: https://www.alura.com.br/artigos/modelos-matematicos-utilizados-em-series-temporais
-  - type: YOUTUBE
-    title: "Alura: Preciso saber matemática para programar?"
-    link: https://www.youtube.com/watch?v=WZo8s-zsfuY
-  - type: COURSE
-    title: "Formação Estatística com Python"
-    link: https://cursos.alura.com.br/formacao-estatistica-python
-  - type: COURSE
-    title: "Formação Estatística com R"
-    link: https://cursos.alura.com.br/formacao-estatistica-r
+

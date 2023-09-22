@@ -2,12 +2,11 @@ name: Ciência de Dados - Fundamentos
 logo: 
 short-description:
 key-objectives:
-  - A Ciência de Dados é o ato de utilizar algoritmos e sistemas para extrair, organizar e analisar dados a partir de diversas fontes, a fim de detectar padrões e tomar decisões de negócios. As áreas de aplicação são infindáveis, como em negócios, biologia, medicina, engenharia, etc.
-  - Conhecer o conceito de Exploração de Dados
-  - Conhecer as principais funções, como 'describe', 'info', etc
-  - Entender o papel de visualizações como histogramas e boxplots
-  - Saber o que são variáveis categóricas nominais e ordinais
-  - Explorar os dados em Python com as bibliotecas Pandas, Matplotlib, Seaborn e Numpy
+  - A Ciência de Dados é um domínio interdisciplinar que utiliza técnicas, algoritmos, processos e sistemas para extrair conhecimento e insights a partir de dados estruturados e não estruturados.
+  - Auxilia empresas e organizações a tomar decisões baseadas em dados e não apenas em intuição.
+  - Permite prever tendências e comportamentos futuros.
+  - Promove novas maneiras de pensar e solucionar problemas complexos.
+  - Apoia na melhoria de processos por meio de sistemas prescritivos de otimização.
 aditional-objectives:
 contents:
   - type: SITE
@@ -34,13 +33,6 @@ contents:
   - type: YOUTUBE
     title: "Jerry Strazzeri: O que realmente Faz um Cientista de Dados?"
     link: https://www.youtube.com/watch?v=_365KpviZ9o
-alura-contents:
-  - type: ARTICLE
-    title: "Assuntos que assombram em Data Science"
-    link: https://www.alura.com.br/artigos/assuntos-que-assombram-em-data-science
-  - type: ARTICLE
-    title: "Data Science em <T>"
-    link: https://www.alura.com.br/artigos/data-science-em-t
   - type: PODCAST
     title: "Hipsters.tech: Primeiros Passos em Data Science: Do Excel e BI ao Python – Hipsters 134"
     link: https://www.hipsters.tech/primeiros-passos-em-data-science-do-excel-e-bi-ao-python-hipsters-134/
@@ -50,15 +42,3 @@ alura-contents:
   - type: PODCAST
     title: "Hipsters.tech: Casos bacanas de Data Science – Hipsters 106"
     link: https://www.hipsters.tech/casos-bacanas-de-data-science-hipsters-106/
-  - type: YOUTUBE
-    title: "Alura: O que é Data Science?"
-    link: https://www.youtube.com/watch?v=5b9Z8toVaAU
-  - type: YOUTUBE
-    title: "Alura: O que faz uma Cientista de Dados?"
-    link: https://www.youtube.com/watch?v=Zwvq-rlIHAw
-  - type: YOUTUBE
-    title: "Alura: Data Science - por onde eu começo?"
-    link: https://www.youtube.com/watch?v=K-eaT4V8j-w
-  - type: COURSE
-    title: "Formação Data Science"
-    link: https://cursos.alura.com.br/formacao-data-science

@@ -2,10 +2,10 @@ name: Extração e Tratamento de Dados
 logo: 
 short-description:
 key-objectives:
-  - A extração de dados é o processo de coleta ou recuperação de tipos diferentes de dados de uma variedade de fontes, muitos dos quais podem estar mal organizados ou completamente desestruturados.
-  - Obter os dados que serão analisados
-  - Tratar os dados obtidos, transformando-os, alterando sua estrutura e valores a fim de deixar a base de dados mais coerente e garantir que os dados que serão trabalhados estejam nas melhores condições para serem analisados
-  - Utilizar as bibliotecas Pandas e Scikit-learn para tratar os dados
+  - Garante que os dados utilizados em análises e modelos sejam precisos e confiáveis.
+  - Dados bem tratados e estruturados facilitam a análise e extração de insights.
+  - Elimina inconsistências e lacunas nos dados, minimizando erros em análises subsequentes.
+  - Cria um formato consistente para dados, tornando-os comparáveis e compatíveis.
 aditional-objectives:
 contents:
   - type: ARTICLE
@@ -29,22 +29,4 @@ contents:
   - type: YOUTUBE
     title: "Bix Tecnologia: Tratamento de Dados com Python (Webinar)"
     link: https://www.youtube.com/watch?v=slv1f2YpMJE 
-alura-contents:
-  - type: ARTICLE
-    title: "Pandas: o que é, para que serve e como instalar"
-    link: https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar 
-  - type: COURSE
-    title: "Curso Pandas: conhecendo a biblioteca"
-    link: https://cursos.alura.com.br/course/pandas-conhecendo-biblioteca 
-  - type: COURSE
-    title: "Curso Pandas I/O: trabalhando com diferentes formatos de arquivos"
-    link: https://cursos.alura.com.br/course/pandas-io-trabalhando-diferentes-formatos-arquivos 
-  - type: COURSE
-    title: "Curso Pandas: seleção e agrupamento de dados"
-    link: https://cursos.alura.com.br/course/pandas-selecao-agrupamento-dados 
-  - type: COURSE
-    title: "Curso Pandas: transformação e manipulação de dados"
-    link: https://cursos.alura.com.br/course/pandas-transformacao-manipulacao-dados 
-  - type: CHALLENGE
-    title: "7 Days of Code: Python Pandas"
-    link: https://7daysofcode.io/matricula/pandas
+
