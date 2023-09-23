@@ -49,14 +49,20 @@ expertise:
 collaboration:
   - name: Cloud, Big Data e Sistemas
     cards:
+      - big-data-fundamentals:
+        priority: 10
       - big-data-and-data-engineering:
         priority: 9
       - cloud-fundamentals:
         priority: 7
       - git-and-github-fundamentals:
         priority: 7
+      - containers:
+        priority: 9
       - software-developer:
         priority: 7
+      - software-testing:
+        priority: 8
       - linux-fundamentals:
         priority: 7
   - name: Business

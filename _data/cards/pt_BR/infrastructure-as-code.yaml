@@ -21,13 +21,3 @@ contents:
   - type: YOUTUBE
     title: "Terraform: infraestrutura como código"
     link: https://www.youtube.com/watch?v=tE1WZg9ib8k 
-alura-contents:
-  - type: COURSE
-    title: "Curso Infraestrutura como código: preparando máquinas na AWS com Ansible e Terraform"
-    link: https://cursos.alura.com.br/course/infraestrutura-codigo-maquinas-aws-ansible-terraform  
-  - type: COURSE
-    title: "Formação DevOps"
-    link: https://cursos.alura.com.br/formacao-devops 
-  - type: COURSE
-    title: "Formação Infraestrutura como código"
-    link: https://cursos.alura.com.br/formacao-infraestrutura-codigo 

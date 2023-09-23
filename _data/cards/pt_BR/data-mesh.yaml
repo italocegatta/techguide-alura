@@ -15,10 +15,6 @@ contents:
   - type: ARTICLE
     title: "Data Mesh Principles and Logical Architecture"
     link: https://martinfowler.com/articles/data-mesh-principles.html
-alura-contents:
   - type: PODCAST
     title: "Datamesh com a ThoughtWorks"
     link: https://cursos.alura.com.br/extra/hipsterstech/datamesh-com-a-thoughtworks-hipsters-ponto-tech-292-a1418  
-  - type: COURSE
-    title: "Formação Data Mesh"
-    link: https://cursos.alura.com.br/formacao-data-mesh

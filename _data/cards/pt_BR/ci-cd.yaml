@@ -18,28 +18,6 @@ contents:
   - type: YOUTUBE
     title: "Código Fonte TV: Pipeline (CD/CI) | Dicionário do Programador"
     link: https://www.youtube.com/watch?v=AZtTd3pFVTY
-alura-contents:
-  - type: ARTICLE
-    title: "Entrega e integração contínua de aplicações Vue"
-    link: https://www.alura.com.br/artigos/entrega-e-integracao-continua-de-aplicacoes-vue
-  - type: ARTICLE
-    title: "GitOps: o que é?"
-    link: https://www.alura.com.br/artigos/o-que-e-git-ops
-  - type: ARTICLE
-    title: "Tipos de testes: quais os principais e por que utilizá-los?"
-    link: https://www.alura.com.br/artigos/tipos-de-testes-principais-por-que-utiliza-los
   - type: PODCAST
     title: "Integração Contínua, Deploy Contínuo e Github Actions"
     link: https://cursos.alura.com.br/extra/hipsterstech/integracao-continua-deploy-continuo-e-github-actions-hipsters-213-a335
-  - type: PODCAST
-    title: "Testes Automatizados"
-    link: https://cursos.alura.com.br/extra/hipsterstech/testes-automatizados-hipsters-51-a535
-  - type: COURSE
-    title: "Curso Integração Contínua: mais qualidade e menos risco no desenvolvimento"
-    link: https://cursos.alura.com.br/course/desenvolvimento-software-integracao-continua
-  - type: COURSE
-    title: "Curso Entrega Contínua: confiabilidade e qualidade na implantação de software"
-    link: https://cursos.alura.com.br/course/entrega-continua-confiabilidade-qualidade
-  - type: COURSE
-    title: "Formação: Integração Contínua e Entrega Contínua"
-    link: https://cursos.alura.com.br/formacao-integracao-continua-entrega-continua

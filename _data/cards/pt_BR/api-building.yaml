@@ -21,19 +21,3 @@ contents:
   - type: YOUTUBE
     title: "Eduardo Mendes: API REST - Live de Python"
     link: https://www.youtube.com/watch?v=1_nQ5A2HcgU 
-alura-contents:
-  - type: COURSE
-    title: "Formação Django REST APIs: crie aplicações REST em Python"
-    link:  https://cursos.alura.com.br/formacao-django-rest 
-  - type: COURSE
-    title: "Formação Começando com Flask: framework web de Python"
-    link:  https://cursos.alura.com.br/formacao-flask 
-  - type: ARTICLE
-    title: "Django ou Flask: características, semelhanças e diferenças"
-    link:  https://www.alura.com.br/artigos/django-ou-flask 
-  - type: COURSE
-    title: "Curso Java: consumindo API, gravando arquivos e lidando com erros"
-    link: https://cursos.alura.com.br/course/java-consumindo-api-gravando-arquivos-lidando-erros 
-  - type: COURSE
-    title: "Curso Swagger: documentando suas APIs"
-    link:  https://cursos.alura.com.br/course/swagger-documentando-apis  

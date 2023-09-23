@@ -30,16 +30,3 @@ contents:
   - type: YOUTUBE
     title: "Tutorial: Construindo seu primeiro Data Warehouse na Nuvem"
     link: https://www.youtube.com/watch?v=Aeg8o5xJoN8
-alura-contents:
-  - type: YOUTUBE
-    title: "Trabalhando com Google Data Studio e Big Query"
-    link: https://www.youtube.com/watch?v=4ik8yUZ2YtY
-  - type: COURSE
-    title: "Formação Google BigQuery e DataStudio"
-    link: https://cursos.alura.com.br/formacao-google-bigquery-datastudio 
-  - type: COURSE
-    title: "Formação BI e Data Warehouse com SQL Server e Power BI"
-    link: https://cursos.alura.com.br/formacao-business-intelligence-data-warehouse 
-  - type: COURSE
-    title: "Formação BI e Data Warehouse com Pentaho"
-    link: https://cursos.alura.com.br/formacao-business-intelligence-data-warehouse-pentaho 

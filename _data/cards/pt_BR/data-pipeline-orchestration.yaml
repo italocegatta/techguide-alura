@@ -26,13 +26,3 @@ contents:
   - type: YOUTUBE
     title: "Eduardo Mendes: Live de Python #123 - Apache Airflow com Juan Funez"
     link: https://www.youtube.com/watch?v=LMk78Dmk0qU  
-alura-contents:
-  - type: ARTICLE
-    title: "Airflow - Entendendo os DAGs"
-    link: https://www.alura.com.br/artigos/airflow-entendendo-dags 
-  - type: COURSE
-    title: "Apache Airflow: orquestrando seu primeiro pipeline de dados"
-    link: https://cursos.alura.com.br/course/apache-airflow-primeiro-pipeline-dados 
-  - type: COURSE
-    title: "Formação Apache Airflow "
-    link: https://cursos.alura.com.br/formacao-apache-airflow 

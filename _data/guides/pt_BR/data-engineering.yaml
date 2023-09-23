@@ -8,9 +8,6 @@ expertise:
         priority: 10
       - python-fundamentals:
         priority: 10
-      - java-fundamentals:
-        priority: 8
-        optional: true
       - databases-fundamentals:
         priority: 10
       - linux-fundamentals:
@@ -28,8 +25,6 @@ expertise:
       - distributed-data-processing:
         priority: 10
       - relational-databases:
-        priority: 10
-      - nosql-databases:
         priority: 10
       - data-pipeline-orchestration:
         priority: 9
@@ -64,11 +59,9 @@ expertise:
 collaboration:
   - name: Arquitetura de software
     cards:
-      - api_building:
+      - api-building:
         priority: 9
-      - http-fundamentals:
-        priority: 9
-      - software_testing:
+      - software-testing:
         priority: 8
       - design-patterns:
         priority: 6

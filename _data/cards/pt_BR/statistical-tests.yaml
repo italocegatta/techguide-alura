@@ -20,16 +20,3 @@ contents:
   - type: YOUTUBE
     title: "Prof. Dr. Petronio Silva: Ciência de Dados - Métricas e Testes"
     link: https://www.youtube.com/watch?v=gRfS2ns-r0Q
-alura-contents:
-  - type: YOUTUBE
-    title: "Alura: Data Science - Introdução a testes estatísticos com Python"
-    link: https://www.youtube.com/watch?v=PnfqWdmCHSo
-  - type: COURSE
-    title: "Curso Data Science: testes estatísticos com Python"
-    link: https://cursos.alura.com.br/course/data-science-introducao-a-testes-estatisticos-com-python
-  - type: COURSE
-    title: "Curso Análise de experimentos: testes, mapas de cores e análises dos dados"
-    link: https://cursos.alura.com.br/course/analise-de-experimentos
-  - type: COURSE
-    title: "Curso Estatística com Python: testes de hipóteses"
-    link: https://cursos.alura.com.br/course/estatistica-testes-hipotestes

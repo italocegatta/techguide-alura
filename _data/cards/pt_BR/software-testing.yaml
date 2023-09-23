@@ -25,11 +25,3 @@ contents:
   - type: ARTICLE
     title: "Testes Unitários e Python — Parte II: Mocks, APIs & Star Wars"
     link: https://medium.com/mercos-engineering/testes-unit%C3%A1rios-e-python-parte-ii-mocks-apis-star-wars-ou-como-consumir-uma-api-rest-3a24d153db59 
-
-alura-contents:
-  - type: COURSE
-    title: "Curso Python e TDD: explorando testes unitários"
-    link: https://cursos.alura.com.br/course/python-tdd-explorando-testes-unitarios 
-  - type: COURSE
-    title: "Curso TDD e Java: testes automatizados com JUnit"
-    link: https://cursos.alura.com.br/course/tdd-java-testes-automatizados-junit 

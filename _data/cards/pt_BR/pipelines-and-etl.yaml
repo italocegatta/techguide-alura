@@ -23,10 +23,3 @@ contents:
   - type: YOUTUBE
     title: "Supletivo DH - Apache NiFi"
     link: https://www.youtube.com/watch?v=IVRG4ks83s0 
-alura-contents:
-  - type: COURSE
-    title: "Curso Apache Beam: Data Pipeline com Python"
-    link: https://cursos.alura.com.br/course/apache-beam-data-pipeline-python 
-  - type: COURSE
-    title: "Curso Engenharia de Dados: organizando dados na AWS"
-    link: https://cursos.alura.com.br/course/engenharia-dados-organizando-dados-aws 

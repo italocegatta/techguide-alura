@@ -20,19 +20,3 @@ contents:
   - type: ARTICLE
     title: "O passado, presente e o futuro da Engenharia de Dados — Data Hackers Podcast"
     link: https://medium.com/data-hackers/o-passado-presente-e-o-futuro-da-engenharia-de-dados-data-hackers-podcast-49-34be714b20f6
-alura-contents:
-  - type: ARTICLE
-    title: "Engenharia de Dados: o que é, o que faz e um Guia completo"
-    link: https://www.alura.com.br/artigos/engenharia-dados 
-  - type: YOUTUBE
-    title: "Alura: O que é Engenharia de Dados?"
-    link: https://www.youtube.com/watch?v=_rMb6S6kimM 
-  - type: ARTICLE
-    title: "O que faz uma pessoa Engenheira de Dados?"
-    link: https://www.alura.com.br/artigos/o-que-pessoa-engenheira-dados 
-  - type: PODCAST
-    title: "Hipsters.Tech: Data Engineering no Quinto Andar"
-    link: https://www.hipsters.tech/data-engineering-no-quinto-andar-hipsters-on-the-road-60/ 
-  - type: COURSE
-    title: "Formação Iniciando com Engenharia de Dados"
-    link: https://cursos.alura.com.br/formacao-iniciando-engenharia-dados

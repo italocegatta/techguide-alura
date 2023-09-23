@@ -19,13 +19,3 @@ contents:
   - type: ARTICLE
     title: "Cartilha orienta sobre governança de dados"
     link: https://www.gov.br/economia/pt-br/assuntos/noticias/2022/dezembro/cartilha-orienta-sobre-governanca-de-dados
-alura-contents:
-  - type: ARTICLE
-    title: "O que é Governança de Dados?"
-    link: https://www.alura.com.br/artigos/o-que-e-governanca-de-dados
-  - type: COURSE
-    title: “LGPD, conhecendo e entendendo seus impactos”
-    link: https://cursos.alura.com.br/course/lgpd-visao-impactos
-  - type: COURSE
-    title: “Governança de TI, gestão de demandas de serviços”
-    link: https://cursos.alura.com.br/course/governanca-ti-demandas-servicos

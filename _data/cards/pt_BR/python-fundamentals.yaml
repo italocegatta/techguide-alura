@@ -14,7 +14,6 @@ key-objectives:
   - Obter dados de uma API
   - Criar construtores
   - Funções anônimas
-aditional-objectives:
   - Manipular objetos JSON
   - Lidar com datas
 contents:
@@ -33,40 +32,3 @@ contents:
   - type: YOUTUBE
     title: "Eduardo Mendes: Curso introdutório de Python"
     link: https://www.youtube.com/watch?v=yTQDbqmv8Ho
-alura-contents:
-  - type: ARTICLE
-    title: "O que é Python? História, Sintaxe e um Guia para iniciar na Linguagem"
-    link: https://www.alura.com.br/artigos/python
-  - type: PODCAST
-    title: "Hipsters.tech: Python – Hipsters 122"
-    link: https://www.hipsters.tech/python-hipsters-122/
-  - type: PODCAST
-    title: "Hipsters.tech: Python Fluente – Hipsters Ponto Tech 179"
-    link: https://www.hipsters.tech/python-fluente-hipsters-ponto-tech-179/
-  - type: YOUTUBE
-    title: "Alura: A linguagem Python - Alura Live 94"
-    link: https://www.youtube.com/watch?v=Nbt0eQHChoI
-  - type: YOUTUBE
-    title: "Alura: O que é Python?"
-    link: https://www.youtube.com/watch?v=-LATVnPcvHI
-  - type: ARTICLE
-    title: "Python - Uma Introdução à Linguagem"
-    link: https://www.alura.com.br/artigos/python-uma-introducao-a-linguagem
-  - type: ARTICLE
-    title: "Python: Trabalhando com precisão em números decimais"
-    link: https://www.alura.com.br/artigos/precisao-numeros-decimais-python
-  - type: ARTICLE
-    title: "Listas em Python: operações básicas"
-    link: https://www.alura.com.br/artigos/listas-no-python
-  - type: ARTICLE
-    title: "Como comparar objetos no Python?"
-    link: https://www.alura.com.br/artigos/como-comparar-objetos-no-python
-  - type: ARTICLE
-    title: "Python datetime: Lidando com datas e horários"
-    link: https://www.alura.com.br/artigos/lidando-com-datas-e-horarios-no-python
-  - type: COURSE
-    title: "Curso Python: começando com a linguagem"
-    link: https://cursos.alura.com.br/course/python-introducao-a-linguagem
-  - type: COURSE
-    title: "Formação Python e orientação a objetos"
-    link: https://cursos.alura.com.br/formacao-Python-linguagem

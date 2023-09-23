@@ -23,13 +23,3 @@ contents:
   - type: ARTICLE
     title: "Arquitetura de um cluster Spark"
     link: https://lorenadesouza.medium.com/bootcamp-de-dados-na-tw-spark-6633275480e4  
-alura-contents:
-  - type: ARTICLE
-    title: "Databricks: o que é e para que serve?"
-    link: https://www.alura.com.br/artigos/databricks-o-que-e-para-que-serve
-  - type: COURSE
-    title: "Formação Apache Spark com Python"
-    link: https://www.alura.com.br/formacao-apache-spark-python
-  - type: COURSE
-    title: "Formação Engenharia de dados com Databricks"
-    link: https://www.alura.com.br/formacao-databricks

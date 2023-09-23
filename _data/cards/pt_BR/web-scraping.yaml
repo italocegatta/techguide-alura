@@ -36,7 +36,3 @@ contents:
   - type: YOUTUBE
     title: "Codifike: Como fazer web scraping para monitorar preços usando Python"
     link: https://www.youtube.com/watch?v=YKennHXZyJU
-alura-contents:
-  - type: COURSE
-    title: "Curso Scraping com Python: coleta de dados na web"
-    link: https://cursos.alura.com.br/course/web-scraping-data-science-python

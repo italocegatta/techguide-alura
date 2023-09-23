@@ -26,16 +26,3 @@ contents:
   - type: YOUTUBE
     title: "Iury Rosal: Validação Cruzada (Cross Validation)"
     link: https://www.youtube.com/watch?v=CWxaXyXZ-1A
-alura-contents:
-  - type: ARTICLE
-    title: "Conhecendo a validação cruzada"
-    link: https://www.alura.com.br/artigos/conhecendo-a-validacao-cruzada
-  - type: COURSE
-    title: "Curso Machine Learning: validação de modelos"
-    link: https://cursos.alura.com.br/course/machine-learning-validando-modelos
-  - type: COURSE
-    title: "Curso Machine Learning parte 1: otimização de modelos através de hiperparâmetros"
-    link: https://cursos.alura.com.br/course/machine-learning-otimizacao-de-modelos-atraves-de-hiperparametros
-  - type: COURSE
-    title: "Curso Machine Learning parte 2: otimização com exploração aleatória"
-    link: https://cursos.alura.com.br/course/machine-learning-otimizacao-com-exploracao-aleatoria

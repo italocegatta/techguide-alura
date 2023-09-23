@@ -18,13 +18,3 @@ contents:
   - type: YOUTUBE
     title: "Streaming de Dados"
     link: https://www.youtube.com/watch?v=PaUeW5a-PTs
-alura-contents: 
-  - type: ARTICLE
-    title: "Spark Streaming "
-    link: https://www.alura.com.br/artigos/spark-streaming
-  - type: COURSE
-    title: "Kafka: Produtores, Consumidores e streams"
-    link: https://cursos.alura.com.br/course/kafka-introducao-a-streams-em-microservicos
-  - type: COURSE
-    title: "Formação Mensageria com Apache Kafka"
-    link: https://cursos.alura.com.br/formacao-kafka

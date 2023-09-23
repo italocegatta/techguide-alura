@@ -18,10 +18,3 @@ contents:
   - type: ARTICLE
     title: "What Is Data Monitoring?"
     link: https://www.egnyte.com/guides/governance/data-monitoring
-alura-contents:
-  - type: COURSE
-    title: "Observabilidade: coletando métricas de uma aplicação com Prometheus"
-    link: https://cursos.alura.com.br/course/observabilidade-prometheus
-  - type: COURSE
-    title: "Monitoramento: Prometheus, Grafana e Alertmanager"
-    link: https://cursos.alura.com.br/course/monitoramento-prometheus-grafana-alertmanager
